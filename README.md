@@ -136,6 +136,10 @@ to get IsoCodes working as Validator for **Symfony** and **Silex**.
 Install [gourmet/validation](https://github.com/gourmet/validation) library
 to get IsoCodes working with **CakePHP 3** validation.
 
+### With Laravel 5 project
+
+Install [pixelpeter/laravel5-isocodes-validation](https://github.com/pixelpeter/laravel5-isocodes-validation) library
+to get IsoCodes working with **Laravel 5** validation.
 
 ## Unit testing
 
